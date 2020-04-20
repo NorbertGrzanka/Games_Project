@@ -1,0 +1,3 @@
+C:/Users/Norbi/CLionProjects/Wirtualne_Zoo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Norbi/CLionProjects/Wirtualne_Zoo/cmake-build-debug/CMakeFiles/Wirtualne_Zoo.dir
+C:/Users/Norbi/CLionProjects/Wirtualne_Zoo/cmake-build-debug/CMakeFiles/edit_cache.dir

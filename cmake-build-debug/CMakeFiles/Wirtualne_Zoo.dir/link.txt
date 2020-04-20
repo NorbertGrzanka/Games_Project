@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Wirtualne_Zoo.dir/objects.a
+C:\cpp\mingw64\bin\ar.exe cr CMakeFiles\Wirtualne_Zoo.dir/objects.a @CMakeFiles\Wirtualne_Zoo.dir\objects1.rsp
+C:\cpp\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Wirtualne_Zoo.dir/objects.a -Wl,--no-whole-archive  -o Wirtualne_Zoo.exe -Wl,--out-implib,libWirtualne_Zoo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Wirtualne_Zoo.dir\linklibs.rsp

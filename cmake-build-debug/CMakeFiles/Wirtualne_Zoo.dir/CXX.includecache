@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Norbi/CLionProjects/Wirtualne_Zoo/GameManager.cpp
+iostream
+-
+GameManager.h
+C:/Users/Norbi/CLionProjects/Wirtualne_Zoo/GameManager.h
+
+C:/Users/Norbi/CLionProjects/Wirtualne_Zoo/GameManager.h
+Player.h
+C:/Users/Norbi/CLionProjects/Wirtualne_Zoo/Player.h
+
+C:/Users/Norbi/CLionProjects/Wirtualne_Zoo/Player.h
+iostream
+-
+string
+-
+
